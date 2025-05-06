@@ -76,3 +76,5 @@ med_e: object = label_E.mean()
 print(med_a)
 
 
+"Programa de prueba"
+
